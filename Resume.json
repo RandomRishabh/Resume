@@ -1,37 +1,37 @@
 {
 	"basics": {
-		"name": "---Enter Your Name---",
+		"name": "RISHABH SAINI",
 		"label": "Student",
 		"picture": "---Enter Image URL----",
-		"email": "---Enter Email ID---",
-		"phone": "---Enter Mobile Number---",
-		"summary": "---Tell Something about yourself ---",
+		"email": "2020KUCP1041@IIITKOTA.AC.IN",
+		"phone": "9829645554",
+		"summary": "I am a student pursuing B.Tech from IIIT Kota. My branch is computer science.",
 		"location": {
-			"address": "---",
-			"postalCode": "---",
-			"city": "---",
+			"address": "401, ROYAL RESIDENCY, CIVIL LINES",
+			"postalCode": "332001",
+			"city": "SIKAR",
 			"countryCode": "India",
-			"region": "---State Name---"
+			"region": "RAJASTHAN"
 		},
 		"profiles": [{
 				"network": "Twitter",
-				"username": "handle",
-				"url": "https://www.twitter.com/<handle>"
+				"username": "RandomRishabh1",
+				"url": "https://twitter.com/RandomRishabh1"
 			},
 			{
 				"network": "Github",
-				"username": "handle",
-				"url": "https://www.github.com/<handle>/"
+				"username": "RandomRishabh",
+				"url": "https://github.com/RandomRishabh"
 			},
 			{
 				"network": "linkedin",
-				"username": "username",
-				"url": "https://www.linkedin.com/in/<username>/"
+				"username": "Rishabh Saini",
+				"url": "https://www.linkedin.com/in/saini-rishabh/"
 			},
 			{
 				"network": "Instagram",
-				"username": "handle",
-				"url": "https://instagram.com/<handle>"
+				"username": "randomrishabh",
+				"url": "https://www.instagram.com/randomrishabh/"
 			}
 		]
 	},
@@ -48,7 +48,7 @@
 	}],
 	"skills": [{
 		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++"]
 	}],
 	"interests": [{
 		"name": "Sports",
